@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+*.mp4
+/Mike_HW14.X/nbproject/private/
+/Mike_HW14.X/build/default/
+/Mike_HW14.X/dist/default/
